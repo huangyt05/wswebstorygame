@@ -1,0 +1,13 @@
+body{
+    background-color: aliceblue;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+main{
+    position: relative;
+    top:40vh;
+    margin:0 auto;
+    width: max-content;
+    height: max-content;
+}
